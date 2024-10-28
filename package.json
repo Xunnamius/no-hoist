@@ -1,0 +1,36 @@
+{
+  "name": "@-xun/no-hoist",
+  "version": "1.0.0",
+  "description": "An empty dummy package used to control NPM hoisting behavior",
+  "keywords": [
+    "nohoist",
+    "no-hoist",
+    "no",
+    "hoist",
+    "anti-hoist",
+    "stop",
+    "prevent"
+  ],
+  "homepage": "https://github.com/Xunnamius/no-hoist#readme",
+  "bugs": {
+    "url": "https://github.com/Xunnamius/no-hoist/issues"
+  },
+  "files": [
+    "/LICENSE",
+    "/package.json",
+    "/README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xunnamius/no-hoist.git"
+  },
+  "license": "MIT",
+  "author": "Xunnamius",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
